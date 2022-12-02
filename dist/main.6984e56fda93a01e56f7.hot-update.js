@@ -3,9 +3,9 @@ self["webpackHotUpdatepet_game"]("main",{},
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ /* webpack/runtime/getFullHash */
 /******/ (() => {
-/******/ 	__webpack_require__.h = () => ("d10209c41ddc553bc332")
+/******/ 	__webpack_require__.h = () => ("ed2622d5ee2d8ca7dd0c")
 /******/ })();
 /******/ 
 /******/ }
 );
-//# sourceMappingURL=main.770c599676b28a16d519.hot-update.js.map
+//# sourceMappingURL=main.6984e56fda93a01e56f7.hot-update.js.map
